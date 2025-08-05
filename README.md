@@ -22,3 +22,5 @@ This web app allows users to upload brain MRI images and receive:
 - ✅ Tumor Classification (Binary: Tumor vs No Tumor)
 - ✅ Tumor Segmentation using U-Net architecture
 - ✅ Boundary overlay for visual reference
+
+- ✅ **`The core functionality is up and running, but there’s still room to improve the accuracy and fine-tune the models for better generalization across different MRI cases.`**
