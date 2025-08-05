@@ -17,6 +17,13 @@ This web app allows users to upload brain MRI images and receive:
 - 🎈 Streamlit – For building the interactive web interface  
 - 📊 NumPy, PIL – For image handling and array manipulation
 
+## 📁 Datasets Used
+
+- 🧬 **Segmentation Dataset:**  
+  https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+- 🧠 **Classification Dataset:**  
+  https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
 ## 🔍 Features
 
 - ✅ Tumor Classification using ResNet architecture (Tumor vs No Tumor)
